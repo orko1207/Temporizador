@@ -1,0 +1,9 @@
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\bin\Debug\Temporizador.xml
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.Form1.resources
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.Resources.resources
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.GenerateResource.Cache
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.exe
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.xml
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\obj\Debug\Temporizador.pdb
