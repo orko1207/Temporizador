@@ -18,3 +18,14 @@ D:\User\usuario\Escritorio\Temporizador\Temporizador\obj\Debug\Temporizador.vbpr
 D:\User\usuario\Escritorio\Temporizador\Temporizador\obj\Debug\Temporizador.exe
 D:\User\usuario\Escritorio\Temporizador\Temporizador\obj\Debug\Temporizador.xml
 D:\User\usuario\Escritorio\Temporizador\Temporizador\obj\Debug\Temporizador.pdb
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\bin\Debug\Temporizador.exe.config
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\bin\Debug\Temporizador.xml
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.Cal.resources
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.Form1.resources
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.Resources.resources
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.GenerateResource.Cache
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.exe
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.xml
+D:\User\usuario\Documents\Visual Studio 2013\Projects\Temporizador\Temporizador\Temporizador\obj\Debug\Temporizador.pdb
