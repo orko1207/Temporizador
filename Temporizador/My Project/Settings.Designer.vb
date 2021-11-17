@@ -64,6 +64,17 @@ Namespace My
                 Me("FechaDestino") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute()>  _
+        Public Property FechaOrigen() As Date
+            Get
+                Return CType(Me("FechaOrigen"),Date)
+            End Get
+            Set
+                Me("FechaOrigen") = value
+            End Set
+        End Property
     End Class
 End Namespace
 
